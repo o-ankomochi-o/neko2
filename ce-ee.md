@@ -211,3 +211,9 @@ CE は\*\*「完全に自由（Free as in Freedom）」**なソフトウェア�
 - Reddit コミュニティ, Blender プロジェクトに関する議論（GitLab ライセンスについての指摘）
 - Reddit コミュニティ, GitLab EE コードのライセンス制約に関する解説
 - その他、GitLab 利用者の知見（上記引用参照）
+  https://forum.gitlab.com/t/community-edition-ce-foss-feature-comparison/86964?utm_source=chatgpt.com
+  https://docs.gitlab.com/administration/license/?utm_source=chatgpt.com
+  Activate GitLab Enterprise Edition (EE)
+  Tier: Premium, Ultimate
+  Offering: GitLab Self-Managed
+  When you install a new GitLab instance without a license, only Free features are enabled. To enable more features in GitLab Enterprise Edition (EE), activate your instance with an activation code.
